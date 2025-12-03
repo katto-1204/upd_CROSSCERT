@@ -1,0 +1,16 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/participant/layout,_N_T_/participant/checkin/layout,_N_T_/participant/checkin/page,_N_T_/participant/checkin"
+  },
+  "segmentPaths": [
+    "/_tree",
+    "/_full",
+    "/participant/checkin/__PAGE__",
+    "/participant/checkin",
+    "/participant",
+    "/_index",
+    "/_head"
+  ]
+}
